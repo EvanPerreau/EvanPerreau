@@ -22,7 +22,7 @@ Hello! I'm Evan Perreau, a passionate back-end developer specializing in **Larav
 
 ## Languages
 
-![TOP LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanPerreau&theme=tokyonight&layout=compact&langs_count=3)
+![TOP LANG](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanPerreau&theme=tokyonight&layout=compact&langs_count=3&hide=html,blade)
 
 ## 🚀 My Approach
 
